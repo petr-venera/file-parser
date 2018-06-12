@@ -1,0 +1,2 @@
+On november 24 deployed Oracle patch 1
+Microsoft windows server 1 enabled antivirus.
